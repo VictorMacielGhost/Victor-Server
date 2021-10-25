@@ -181,11 +181,13 @@ public OnPlayerText(playerid, text[])
 		SendClientMessageToAll(-1, String);
 		return 0;
 	}
+
 	else
 	{
 		format(String, sizeof String, "(%s) %s %s Diz: %s", NomeOrg[playerid], NomeCargo[playerid], pName(playerid), text);
 		SendClientMessageToAll(-1, String);
 	}
+	
 	return 0;
 }
 
