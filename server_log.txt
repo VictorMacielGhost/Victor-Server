@@ -1,0 +1,1633 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:34:34] filterscripts = ""  (string)
+[23:34:34] 
+[23:34:34] Server Plugins
+[23:34:34] --------------
+[23:34:34]  Loaded 0 plugins.
+
+[23:34:34] 
+[23:34:34] Filterscripts
+[23:34:34] ---------------
+[23:34:34]   Loaded 0 filterscripts.
+
+[23:34:34] -----------------------------------------------------------------
+[23:34:34] -------------------------Breaking Peace--------------------------
+[23:34:34] --------------- Servidor inicializado com sucesso ---------------
+[23:34:34] ---------- Servidor Inicializado às 23, 34, 34 ----------------
+[23:34:34] -----------------------------------------------------------------
+[23:34:34] Number of vehicle models: 0
+Console input: exit
+[23:43:32] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:43:36] filterscripts = ""  (string)
+[23:43:36] 
+[23:43:36] Server Plugins
+[23:43:36] --------------
+[23:43:36]  Loaded 0 plugins.
+
+[23:43:36] 
+[23:43:36] Filterscripts
+[23:43:36] ---------------
+[23:43:36]   Loaded 0 filterscripts.
+
+[23:43:36] -----------------------------------------------------------------
+[23:43:36] -------------------------Breaking Peace--------------------------
+[23:43:36] --------------- Servidor inicializado com sucesso ---------------
+[23:43:36] ---------- Servidor Inicializado às 23 horas, 43 minutos e 36 segundos ----------------
+[23:43:36] ------------- Inicializado dia 2021/10 de 24 ---------------------
+[23:43:36] -----------------------------------------------------------------
+[23:43:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:44:14] filterscripts = ""  (string)
+[23:44:14] 
+[23:44:14] Server Plugins
+[23:44:14] --------------
+[23:44:14]  Loaded 0 plugins.
+
+[23:44:14] 
+[23:44:14] Filterscripts
+[23:44:14] ---------------
+[23:44:14]   Loaded 0 filterscripts.
+
+[23:44:14] -----------------------------------------------------------------
+[23:44:14] -------------------------Breaking Peace--------------------------
+[23:44:14] --------------- Servidor inicializado com sucesso ---------------
+[23:44:14] ---------- Servidor Inicializado às 23 horas, 44 minutos e 14 segundos ----------------
+[23:44:14] ------------- Inicializado dia 24/10 de 2021 ---------------------
+[23:44:14] -----------------------------------------------------------------
+[23:44:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:45:56] filterscripts = ""  (string)
+[23:45:56] 
+[23:45:56] Server Plugins
+[23:45:56] --------------
+[23:45:56]  Loaded 0 plugins.
+
+[23:45:56] 
+[23:45:56] Filterscripts
+[23:45:56] ---------------
+[23:45:56]   Loaded 0 filterscripts.
+
+[23:45:56] -----------------------------------------------------------------
+[23:45:56] |                         Breaking Peace                        |
+[23:45:56] |                        Servidor inicializado com sucesso                        |
+[23:45:56] |                        Servidor Inicializado às 23 horas, 45 minutos e 56 segundos                        |
+[23:45:56] |                         Inicializado dia 24/10 de 2021                         |
+[23:45:56] -----------------------------------------------------------------
+[23:45:56] Number of vehicle models: 0
+Console input: gmx
+Console input: exit
+[23:46:38] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:46:41] filterscripts = ""  (string)
+[23:46:41] 
+[23:46:41] Server Plugins
+[23:46:41] --------------
+[23:46:41]  Loaded 0 plugins.
+
+[23:46:41] 
+[23:46:41] Filterscripts
+[23:46:41] ---------------
+[23:46:41]   Loaded 0 filterscripts.
+
+[23:46:41] -----------------------------------------------------------------
+[23:46:41] |                         Breaking Peace                        |
+[23:46:41] |                        Servidor inicializado com sucesso                        |
+[23:46:41] |                        Servidor Inicializado às 23 horas, 46 minutos e 41 segundos                        |
+[23:46:41] |                         Inicializado dia 24/10 de 2021                         |
+[23:46:41] -----------------------------------------------------------------
+[23:46:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:29] filterscripts = ""  (string)
+[23:47:29] 
+[23:47:29] Server Plugins
+[23:47:29] --------------
+[23:47:29]  Loaded 0 plugins.
+
+[23:47:29] 
+[23:47:29] Filterscripts
+[23:47:29] ---------------
+[23:47:29]   Loaded 0 filterscripts.
+
+[23:47:29] -----------------------------------------------------------------
+[23:47:29] |    Breaking Peace    |
+[23:47:29] |    Servidor inicializado com sucesso    |
+[23:47:29] |    Servidor Inicializado às 23 horas, 47 minutos e 29 segundos    |
+[23:47:29] |    Inicializado dia 24/10 de 2021    |
+[23:47:29] -----------------------------------------------------------------
+[23:47:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:48:21] filterscripts = ""  (string)
+[23:48:21] 
+[23:48:21] Server Plugins
+[23:48:21] --------------
+[23:48:21]  Loaded 0 plugins.
+
+[23:48:21] 
+[23:48:21] Filterscripts
+[23:48:21] ---------------
+[23:48:21]   Loaded 0 filterscripts.
+
+[23:48:21] -----------------------------------------------------------------
+[23:48:21] | --> Breaking Peace
+[23:48:21] | --> Servidor inicializado com sucesso
+[23:48:21] | --> Servidor Inicializado às 23 horas, 48 minutos e 21 segundos
+[23:48:21] | --> Inicializado dia 24/10 de 2021
+[23:48:21] -----------------------------------------------------------------
+[23:48:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:20] filterscripts = ""  (string)
+[23:51:20] 
+[23:51:20] Server Plugins
+[23:51:20] --------------
+[23:51:20]  Loaded 0 plugins.
+
+[23:51:20] 
+[23:51:20] Filterscripts
+[23:51:20] ---------------
+[23:51:20]   Loaded 0 filterscripts.
+
+[23:51:20] -----------------------------------------------------------------
+[23:51:20] | --> Breaking Peace
+[23:51:20] | --> Servidor inicializado com sucesso
+[23:51:20] | --> Servidor Inicializado às 23 horas, 51 minutos e 20 segundos
+[23:51:20] | --> Inicializado dia 24/10 de 2021
+[23:51:20] -----------------------------------------------------------------
+[23:51:20] Number of vehicle models: 0
+Console input: gmx
+[23:55:14] -----------------------------------------------------------------
+[23:55:14] | --> Breaking Peace
+[23:55:14] | --> Servidor inicializado com sucesso
+[23:55:14] | --> Servidor Inicializado às 23 horas, 55 minutos e 14 segundos
+[23:55:14] | --> Inicializado dia 24/10 de 2021
+[23:55:14] -----------------------------------------------------------------
+[23:55:14] Number of vehicle models: 0
+Console input: exit
+[23:55:21] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:24] filterscripts = ""  (string)
+[23:55:24] 
+[23:55:24] Server Plugins
+[23:55:24] --------------
+[23:55:24]  Loaded 0 plugins.
+
+[23:55:24] 
+[23:55:24] Filterscripts
+[23:55:24] ---------------
+[23:55:24]   Loaded 0 filterscripts.
+
+[23:55:24] -----------------------------------------------------------------
+[23:55:24] | --> Breaking Peace
+[23:55:24] | --> Servidor inicializado com sucesso
+[23:55:24] | --> Servidor Inicializado às 23 horas, 55 minutos e 24 segundos
+[23:55:24] | --> Inicializado dia 24/10 de 2021
+[23:55:24] -----------------------------------------------------------------
+[23:55:24] Number of vehicle models: 0
+Console input: gmx
+[00:02:32] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[00:02:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:03:39] filterscripts = ""  (string)
+[00:03:39] 
+[00:03:39] Server Plugins
+[00:03:39] --------------
+[00:03:39]  Loaded 0 plugins.
+
+[00:03:39] 
+[00:03:39] Filterscripts
+[00:03:39] ---------------
+[00:03:39]   Loaded 0 filterscripts.
+
+[00:03:39] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[00:03:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:03:56] filterscripts = ""  (string)
+[00:03:56] 
+[00:03:56] Server Plugins
+[00:03:56] --------------
+[00:03:56]  Loading plugin: sscanf
+[00:03:56] 
+
+[00:03:56]  ===============================
+
+[00:03:56]       sscanf plugin loaded.     
+
+[00:03:56]    (c) 2009 Alex "Y_Less" Cole
+
+[00:03:56]    0.3d-R2 500 Players "dnee"
+
+[00:03:56]  ===============================
+
+[00:03:56]   Loaded.
+[00:03:56]  Loaded 1 plugins.
+
+[00:03:56] 
+[00:03:56] Filterscripts
+[00:03:56] ---------------
+[00:03:56]   Loaded 0 filterscripts.
+
+[00:03:56] -----------------------------------------------------------------
+[00:03:56] | --> Breaking Peace
+[00:03:56] | --> Servidor inicializado com sucesso
+[00:03:56] | --> Servidor Inicializado às 0 horas, 3 minutos e 56 segundos
+[00:03:56] | --> Inicializado dia 25/10 de 2021
+[00:03:56] -----------------------------------------------------------------
+[00:03:56] Number of vehicle models: 0
+[00:04:33] [connection] 127.0.0.1:54895 requests connection cookie.
+[00:04:34] [connection] incoming connection: 127.0.0.1:54895 id: 0
+[00:04:34] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[00:04:52] [chat] [Victoria_Shelby]: a
+[00:05:15] RCON (In-Game): Player #0 (Victoria_Shelby) failed login.
+[00:05:18] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+Console input: gmx
+[00:14:06] -----------------------------------------------------------------
+[00:14:06] | --> Breaking Peace
+[00:14:06] | --> Servidor inicializado com sucesso
+[00:14:06] | --> Servidor Inicializado às 0 horas, 14 minutos e 6 segundos
+[00:14:06] | --> Inicializado dia 25/10 de 2021
+[00:14:06] -----------------------------------------------------------------
+[00:14:06] Number of vehicle models: 0
+Console input: exit
+[00:14:29] --- Server Shutting Down.
+[00:14:29] [part] Victoria_Shelby has left the server (0:0)
+[00:14:29] 
+
+[00:14:29]  ===============================
+
+[00:14:29]      sscanf plugin unloaded.    
+
+[00:14:29]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:34] filterscripts = ""  (string)
+[00:14:34] 
+[00:14:34] Server Plugins
+[00:14:34] --------------
+[00:14:34]  Loading plugin: sscanf
+[00:14:34] 
+
+[00:14:34]  ===============================
+
+[00:14:34]       sscanf plugin loaded.     
+
+[00:14:34]    (c) 2009 Alex "Y_Less" Cole
+
+[00:14:34]    0.3d-R2 500 Players "dnee"
+
+[00:14:34]  ===============================
+
+[00:14:34]   Loaded.
+[00:14:34]  Loaded 1 plugins.
+
+[00:14:34] 
+[00:14:34] Filterscripts
+[00:14:34] ---------------
+[00:14:34]   Loaded 0 filterscripts.
+
+[00:14:34] -----------------------------------------------------------------
+[00:14:34] | --> Breaking Peace
+[00:14:34] | --> Servidor inicializado com sucesso
+[00:14:34] | --> Servidor Inicializado às 0 horas, 14 minutos e 34 segundos
+[00:14:34] | --> Inicializado dia 25/10 de 2021
+[00:14:34] -----------------------------------------------------------------
+[00:14:34] Number of vehicle models: 0
+[00:15:02] [connection] 127.0.0.1:58157 requests connection cookie.
+[00:15:03] [connection] incoming connection: 127.0.0.1:58157 id: 0
+[00:15:03] Player  [0] esta tentando se conectar ao servidor (IP : 49, Porta : 58157)
+[00:15:03] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:57] filterscripts = ""  (string)
+[00:15:57] 
+[00:15:57] Server Plugins
+[00:15:57] --------------
+[00:15:57]  Loading plugin: sscanf
+[00:15:57] 
+
+[00:15:57]  ===============================
+
+[00:15:57]       sscanf plugin loaded.     
+
+[00:15:57]    (c) 2009 Alex "Y_Less" Cole
+
+[00:15:57]    0.3d-R2 500 Players "dnee"
+
+[00:15:57]  ===============================
+
+[00:15:57]   Loaded.
+[00:15:57]  Loaded 1 plugins.
+
+[00:15:57] 
+[00:15:57] Filterscripts
+[00:15:57] ---------------
+[00:15:57]   Loaded 0 filterscripts.
+
+[00:15:57] -----------------------------------------------------------------
+[00:15:57] | --> Breaking Peace
+[00:15:57] | --> Servidor inicializado com sucesso
+[00:15:57] | --> Servidor Inicializado às 0 horas, 15 minutos e 57 segundos
+[00:15:57] | --> Inicializado dia 25/10 de 2021
+[00:15:57] -----------------------------------------------------------------
+[00:15:57] Number of vehicle models: 0
+[00:16:03] [connection] 127.0.0.1:51454 requests connection cookie.
+[00:16:04] [connection] incoming connection: 127.0.0.1:51454 id: 0
+[00:16:04] Player  [0] esta tentando se conectar ao servidor (IP : 0.000000, Porta : 51454)
+[00:16:04] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:44] filterscripts = ""  (string)
+[00:17:44] 
+[00:17:44] Server Plugins
+[00:17:44] --------------
+[00:17:44]  Loading plugin: sscanf
+[00:17:44] 
+
+[00:17:44]  ===============================
+
+[00:17:44]       sscanf plugin loaded.     
+
+[00:17:44]    (c) 2009 Alex "Y_Less" Cole
+
+[00:17:44]    0.3d-R2 500 Players "dnee"
+
+[00:17:44]  ===============================
+
+[00:17:44]   Loaded.
+[00:17:44]  Loaded 1 plugins.
+
+[00:17:44] 
+[00:17:44] Filterscripts
+[00:17:44] ---------------
+[00:17:44]   Loaded 0 filterscripts.
+
+[00:17:44] -----------------------------------------------------------------
+[00:17:44] | --> Breaking Peace
+[00:17:44] | --> Servidor inicializado com sucesso
+[00:17:44] | --> Servidor Inicializado às 0 horas, 17 minutos e 44 segundos
+[00:17:44] | --> Inicializado dia 25/10 de 2021
+[00:17:44] -----------------------------------------------------------------
+[00:17:44] Number of vehicle models: 0
+[00:17:58] [connection] 127.0.0.1:62427 requests connection cookie.
+[00:17:59] [connection] incoming connection: 127.0.0.1:62427 id: 0
+[00:17:59] Player  [0] esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 62427)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:09] filterscripts = ""  (string)
+[00:19:09] 
+[00:19:09] Server Plugins
+[00:19:09] --------------
+[00:19:09]  Loading plugin: sscanf
+[00:19:09] 
+
+[00:19:09]  ===============================
+
+[00:19:09]       sscanf plugin loaded.     
+
+[00:19:09]    (c) 2009 Alex "Y_Less" Cole
+
+[00:19:09]    0.3d-R2 500 Players "dnee"
+
+[00:19:09]  ===============================
+
+[00:19:09]   Loaded.
+[00:19:09]  Loaded 1 plugins.
+
+[00:19:09] 
+[00:19:09] Filterscripts
+[00:19:09] ---------------
+[00:19:09]   Loaded 0 filterscripts.
+
+[00:19:09] -----------------------------------------------------------------
+[00:19:09] | --> Breaking Peace
+[00:19:09] | --> Servidor inicializado com sucesso
+[00:19:09] | --> Servidor Inicializado às 0 horas, 19 minutos e 9 segundos
+[00:19:09] | --> Inicializado dia 25/10 de 2021
+[00:19:09] -----------------------------------------------------------------
+[00:19:09] Number of vehicle models: 0
+[00:19:16] [connection] 127.0.0.1:57378 requests connection cookie.
+[00:19:17] [connection] incoming connection: 127.0.0.1:57378 id: 0
+[00:19:17] Player  [0] esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 57378)
+[00:19:17] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:32] filterscripts = ""  (string)
+[00:19:32] 
+[00:19:32] Server Plugins
+[00:19:32] --------------
+[00:19:32]  Loading plugin: sscanf
+[00:19:32] 
+
+[00:19:32]  ===============================
+
+[00:19:32]       sscanf plugin loaded.     
+
+[00:19:32]    (c) 2009 Alex "Y_Less" Cole
+
+[00:19:32]    0.3d-R2 500 Players "dnee"
+
+[00:19:32]  ===============================
+
+[00:19:32]   Loaded.
+[00:19:32]  Loaded 1 plugins.
+
+[00:19:32] 
+[00:19:32] Filterscripts
+[00:19:32] ---------------
+[00:19:32]   Loaded 0 filterscripts.
+
+[00:19:32] -----------------------------------------------------------------
+[00:19:32] | --> Breaking Peace
+[00:19:32] | --> Servidor inicializado com sucesso
+[00:19:32] | --> Servidor Inicializado às 0 horas, 19 minutos e 32 segundos
+[00:19:32] | --> Inicializado dia 25/10 de 2021
+[00:19:32] -----------------------------------------------------------------
+[00:19:32] Number of vehicle models: 0
+[00:19:54] [connection] 127.0.0.1:60717 requests connection cookie.
+[00:19:55] [connection] incoming connection: 127.0.0.1:60717 id: 0
+[00:19:55] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 60717)
+[00:19:55] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[00:20:27] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+Console input: gmx
+[00:21:52] -----------------------------------------------------------------
+[00:21:52] | --> Breaking Peace
+[00:21:52] | --> Servidor inicializado com sucesso
+[00:21:52] | --> Servidor Inicializado às 0 horas, 21 minutos e 52 segundos
+[00:21:52] | --> Inicializado dia 25/10 de 2021
+[00:21:52] -----------------------------------------------------------------
+[00:21:52] Number of vehicle models: 0
+[00:22:42] RCON (In-Game): Player [Victoria_Shelby] sent command: login altereaqui
+Console input: gmx
+[00:24:15] RCON (In-Game): Player [Victoria_Shelby] sent command: exit
+[00:24:15] --- Server Shutting Down.
+[00:24:15] [part] Victoria_Shelby has left the server (0:0)
+[00:24:15] 
+
+[00:24:15]  ===============================
+
+[00:24:15]      sscanf plugin unloaded.    
+
+[00:24:15]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:24:20] filterscripts = ""  (string)
+[00:24:20] 
+[00:24:20] Server Plugins
+[00:24:20] --------------
+[00:24:20]  Loading plugin: sscanf
+[00:24:20] 
+
+[00:24:20]  ===============================
+
+[00:24:20]       sscanf plugin loaded.     
+
+[00:24:20]    (c) 2009 Alex "Y_Less" Cole
+
+[00:24:20]    0.3d-R2 500 Players "dnee"
+
+[00:24:20]  ===============================
+
+[00:24:20]   Loaded.
+[00:24:20]  Loaded 1 plugins.
+
+[00:24:20] 
+[00:24:20] Filterscripts
+[00:24:20] ---------------
+[00:24:20]   Loaded 0 filterscripts.
+
+[00:24:20] -----------------------------------------------------------------
+[00:24:20] | --> Breaking Peace
+[00:24:20] | --> Servidor inicializado com sucesso
+[00:24:20] | --> Servidor Inicializado às 0 horas, 24 minutos e 20 segundos
+[00:24:20] | --> Inicializado dia 25/10 de 2021
+[00:24:20] -----------------------------------------------------------------
+[00:24:20] Number of vehicle models: 0
+[00:24:44] [connection] 127.0.0.1:50824 requests connection cookie.
+[00:24:45] [connection] incoming connection: 127.0.0.1:50824 id: 0
+[00:24:45] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 50824)
+[00:24:45] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[00:24:54] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+Console input: gmx
+[00:26:03] -----------------------------------------------------------------
+[00:26:03] | --> Breaking Peace
+[00:26:03] | --> Servidor inicializado com sucesso
+[00:26:03] | --> Servidor Inicializado às 0 horas, 26 minutos e 3 segundos
+[00:26:03] | --> Inicializado dia 25/10 de 2021
+[00:26:03] -----------------------------------------------------------------
+[00:26:03] Number of vehicle models: 0
+[00:27:12] RCON (In-Game): Player [Victoria_Shelby] sent command: gmx
+[00:27:42] -----------------------------------------------------------------
+[00:27:42] | --> Breaking Peace
+[00:27:42] | --> Servidor inicializado com sucesso
+[00:27:42] | --> Servidor Inicializado às 0 horas, 27 minutos e 24 segundos
+[00:27:42] | --> Inicializado dia 25/10 de 2021
+[00:27:42] -----------------------------------------------------------------
+[00:27:42] Number of vehicle models: 0
+[00:27:44] RCON (In-Game): Player [Victoria_Shelby] sent command: exit
+[00:27:44] --- Server Shutting Down.
+[00:27:44] [part] Victoria_Shelby has left the server (0:0)
+[00:27:44] 
+
+[00:27:44]  ===============================
+
+[00:27:44]      sscanf plugin unloaded.    
+
+[00:27:44]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:29:10] filterscripts = ""  (string)
+[00:29:10] 
+[00:29:10] Server Plugins
+[00:29:10] --------------
+[00:29:10]  Loading plugin: sscanf
+[00:29:10] 
+
+[00:29:10]  ===============================
+
+[00:29:10]       sscanf plugin loaded.     
+
+[00:29:10]    (c) 2009 Alex "Y_Less" Cole
+
+[00:29:10]    0.3d-R2 500 Players "dnee"
+
+[00:29:10]  ===============================
+
+[00:29:10]   Loaded.
+[00:29:10]  Loaded 1 plugins.
+
+[00:29:11] 
+[00:29:11] Filterscripts
+[00:29:11] ---------------
+[00:29:11]   Loaded 0 filterscripts.
+
+[00:29:11] -----------------------------------------------------------------
+[00:29:11] | --> Breaking Peace
+[00:29:11] | --> Servidor inicializado com sucesso
+[00:29:11] | --> Servidor Inicializado às 0 horas, 29 minutos e 11 segundos
+[00:29:11] | --> Inicializado dia 25/10 de 2021
+[00:29:11] -----------------------------------------------------------------
+[00:29:11] Number of vehicle models: 0
+Console input: exit
+[00:29:12] --- Server Shutting Down.
+[00:29:12]  Servidor desligado às 0 horas, 29 minutos e 12 segundos
+[00:29:12]  desligado dia 25/10 de 2021
+[00:29:12] 
+
+[00:29:12]  ===============================
+
+[00:29:12]      sscanf plugin unloaded.    
+
+[00:29:12]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:33:39] filterscripts = ""  (string)
+[00:33:39] 
+[00:33:39] Server Plugins
+[00:33:39] --------------
+[00:33:39]  Loading plugin: sscanf
+[00:33:39] 
+
+[00:33:39]  ===============================
+
+[00:33:39]       sscanf plugin loaded.     
+
+[00:33:39]    (c) 2009 Alex "Y_Less" Cole
+
+[00:33:39]    0.3d-R2 500 Players "dnee"
+
+[00:33:39]  ===============================
+
+[00:33:39]   Loaded.
+[00:33:39]  Loaded 1 plugins.
+
+[00:33:39] 
+[00:33:39] Filterscripts
+[00:33:39] ---------------
+[00:33:39]   Loaded 0 filterscripts.
+
+[00:33:39] -----------------------------------------------------------------
+[00:33:39] | --> Breaking Peace
+[00:33:39] | --> Servidor inicializado com sucesso
+[00:33:39] | --> Servidor Inicializado às 0 horas, 33 minutos e 39 segundos
+[00:33:39] | --> Inicializado dia 25/10 de 2021
+[00:33:39] -----------------------------------------------------------------
+[00:33:39] Number of vehicle models: 0
+[00:34:04] [connection] 127.0.0.1:51060 requests connection cookie.
+[00:34:05] [connection] incoming connection: 127.0.0.1:51060 id: 0
+[00:34:05] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 51060)
+[00:34:05] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[00:34:06] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[00:34:09] Player %s [%d] (IP : %s) deu GMX no servidor
+[00:34:12] Player %s [%d] (IP : %s) deu GMX no servidor
+[00:34:25] Player %s [%d] (IP : %s) deu GMX no servidor
+Console input: gmx
+[00:34:27]  Servidor desligado às 0 horas, 34 minutos e 27 segundos
+[00:34:27]  Desligado dia 25/10 de 2021
+[00:34:39] -----------------------------------------------------------------
+[00:34:39] | --> Breaking Peace
+[00:34:39] | --> Servidor inicializado com sucesso
+[00:34:39] | --> Servidor Inicializado às 0 horas, 34 minutos e 39 segundos
+[00:34:39] | --> Inicializado dia 25/10 de 2021
+[00:34:39] -----------------------------------------------------------------
+[00:34:39] Number of vehicle models: 0
+Console input: gmx
+[00:34:45]  Servidor desligado às 0 horas, 34 minutos e 45 segundos
+[00:34:45]  Desligado dia 25/10 de 2021
+[00:34:57] -----------------------------------------------------------------
+[00:34:57] | --> Breaking Peace
+[00:34:57] | --> Servidor inicializado com sucesso
+[00:34:57] | --> Servidor Inicializado às 0 horas, 34 minutos e 57 segundos
+[00:34:57] | --> Inicializado dia 25/10 de 2021
+[00:34:57] -----------------------------------------------------------------
+[00:34:57] Number of vehicle models: 0
+[00:34:59] Player Victoria_Shelby [0] (IP : 	Victoria_Shelby) deu GMX no servidor
+[00:38:55] Player Victoria_Shelby [0] (IP : 	Victoria_Shelby) deu GMX no servidor
+Console input: gmx
+[00:38:56]  Servidor desligado às 0 horas, 38 minutos e 56 segundos
+[00:38:56]  Desligado dia 25/10 de 2021
+[00:39:08] -----------------------------------------------------------------
+[00:39:08] | --> Breaking Peace
+[00:39:08] | --> Servidor inicializado com sucesso
+[00:39:08] | --> Servidor Inicializado às 0 horas, 39 minutos e 8 segundos
+[00:39:08] | --> Inicializado dia 25/10 de 2021
+[00:39:08] -----------------------------------------------------------------
+[00:39:08] Number of vehicle models: 0
+[00:39:12] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:40:16] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:40:41] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:40:44] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:40:46] Player Victoria_Shelby ID [0] deu GMX no servidor
+Console input: gmx
+[00:41:05]  Servidor desligado às 0 horas, 41 minutos e 5 segundos
+[00:41:05]  Desligado dia 25/10 de 2021
+[00:41:17] -----------------------------------------------------------------
+[00:41:17] | --> Breaking Peace
+[00:41:17] | --> Servidor inicializado com sucesso
+[00:41:17] | --> Servidor Inicializado às 0 horas, 41 minutos e 17 segundos
+[00:41:17] | --> Inicializado dia 25/10 de 2021
+[00:41:17] -----------------------------------------------------------------
+[00:41:17] Number of vehicle models: 0
+[00:41:20] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:41:20]  Servidor desligado às 0 horas, 41 minutos e 20 segundos
+[00:41:20]  Desligado dia 25/10 de 2021
+[00:41:32] -----------------------------------------------------------------
+[00:41:32] | --> Breaking Peace
+[00:41:32] | --> Servidor inicializado com sucesso
+[00:41:32] | --> Servidor Inicializado às 0 horas, 41 minutos e 32 segundos
+[00:41:32] | --> Inicializado dia 25/10 de 2021
+[00:41:32] -----------------------------------------------------------------
+[00:41:32] Number of vehicle models: 0
+[00:41:59] Player Victoria_Shelby ID [0] deu GMX no servidor
+[00:41:59]  Servidor desligado às 0 horas, 41 minutos e 59 segundos
+[00:41:59]  Desligado dia 25/10 de 2021
+[00:42:11] -----------------------------------------------------------------
+[00:42:11] | --> Breaking Peace
+[00:42:11] | --> Servidor inicializado com sucesso
+[00:42:11] | --> Servidor Inicializado às 0 horas, 42 minutos e 11 segundos
+[00:42:11] | --> Inicializado dia 25/10 de 2021
+[00:42:11] -----------------------------------------------------------------
+[00:42:11] Number of vehicle models: 0
+Console input: gmx
+[00:42:26]  Servidor desligado às 0 horas, 42 minutos e 26 segundos
+[00:42:26]  Desligado dia 25/10 de 2021
+[00:42:38] -----------------------------------------------------------------
+[00:42:38] | --> Breaking Peace
+[00:42:38] | --> Servidor inicializado com sucesso
+[00:42:38] | --> Servidor Inicializado às 0 horas, 42 minutos e 38 segundos
+[00:42:38] | --> Inicializado dia 25/10 de 2021
+[00:42:38] -----------------------------------------------------------------
+[00:42:38] Number of vehicle models: 0
+[00:42:47] [part] Victoria_Shelby has left the server (0:1)
+[00:43:07] [connection] 127.0.0.1:54819 requests connection cookie.
+[00:43:08] [connection] incoming connection: 127.0.0.1:54819 id: 0
+[00:43:08] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 54819)
+[00:43:08] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[00:43:17] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[00:43:19] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[00:43:19]  Servidor desligado às 0 horas, 43 minutos e 19 segundos
+[00:43:19]  Desligado dia 25/10 de 2021
+[00:43:31] -----------------------------------------------------------------
+[00:43:31] | --> Breaking Peace
+[00:43:31] | --> Servidor inicializado com sucesso
+[00:43:31] | --> Servidor Inicializado às 0 horas, 43 minutos e 31 segundos
+[00:43:31] | --> Inicializado dia 25/10 de 2021
+[00:43:31] -----------------------------------------------------------------
+[00:43:31] Number of vehicle models: 0
+[00:43:42] [chat] [Victoria_Shelby]: a
+[00:50:41] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[00:50:41]  Servidor desligado às 0 horas, 50 minutos e 41 segundos
+[00:50:41]  Desligado dia 25/10 de 2021
+[00:50:53] -----------------------------------------------------------------
+[00:50:53] | --> Breaking Peace
+[00:50:53] | --> Servidor inicializado com sucesso
+[00:50:53] | --> Servidor Inicializado às 0 horas, 50 minutos e 53 segundos
+[00:50:53] | --> Inicializado dia 25/10 de 2021
+[00:50:53] -----------------------------------------------------------------
+[00:50:53] Number of vehicle models: 0
+[00:51:41] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[00:51:41]  Servidor desligado às 0 horas, 51 minutos e 41 segundos
+[00:51:41]  Desligado dia 25/10 de 2021
+[00:51:53] -----------------------------------------------------------------
+[00:51:53] | --> Breaking Peace
+[00:51:53] | --> Servidor inicializado com sucesso
+[00:51:53] | --> Servidor Inicializado às 0 horas, 51 minutos e 53 segundos
+[00:51:53] | --> Inicializado dia 25/10 de 2021
+[00:51:53] -----------------------------------------------------------------
+[00:51:53] Number of vehicle models: 0
+Console input: gmx
+[00:52:47]  Servidor desligado às 0 horas, 52 minutos e 47 segundos
+[00:52:47]  Desligado dia 25/10 de 2021
+[00:52:59] -----------------------------------------------------------------
+[00:52:59] | --> Breaking Peace
+[00:52:59] | --> Servidor inicializado com sucesso
+[00:52:59] | --> Servidor Inicializado às 0 horas, 52 minutos e 59 segundos
+[00:52:59] | --> Inicializado dia 25/10 de 2021
+[00:52:59] -----------------------------------------------------------------
+[00:52:59] Number of vehicle models: 0
+Console input: gmx
+[00:54:25]  Servidor desligado às 0 horas, 54 minutos e 25 segundos
+[00:54:25]  Desligado dia 25/10 de 2021
+[00:54:37] -----------------------------------------------------------------
+[00:54:37] | --> Breaking Peace
+[00:54:37] | --> Servidor inicializado com sucesso
+[00:54:37] | --> Servidor Inicializado às 0 horas, 54 minutos e 37 segundos
+[00:54:37] | --> Inicializado dia 25/10 de 2021
+[00:54:37] -----------------------------------------------------------------
+[00:54:37] Number of vehicle models: 0
+[01:03:50] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:03:50]  Servidor desligado às 1 horas, 3 minutos e 50 segundos
+[01:03:50]  Desligado dia 25/10 de 2021
+[01:04:02] -----------------------------------------------------------------
+[01:04:02] | --> Breaking Peace
+[01:04:02] | --> Servidor inicializado com sucesso
+[01:04:02] | --> Servidor Inicializado às 1 horas, 4 minutos e 2 segundos
+[01:04:02] | --> Inicializado dia 25/10 de 2021
+[01:04:02] -----------------------------------------------------------------
+[01:04:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:04:59] filterscripts = ""  (string)
+[01:04:59] 
+[01:04:59] Server Plugins
+[01:04:59] --------------
+[01:04:59]  Loading plugin: sscanf
+[01:04:59] 
+
+[01:04:59]  ===============================
+
+[01:04:59]       sscanf plugin loaded.     
+
+[01:04:59]    (c) 2009 Alex "Y_Less" Cole
+
+[01:04:59]    0.3d-R2 500 Players "dnee"
+
+[01:04:59]  ===============================
+
+[01:04:59]   Loaded.
+[01:04:59]  Loaded 1 plugins.
+
+[01:04:59] 
+[01:04:59] Filterscripts
+[01:04:59] ---------------
+[01:04:59]   Loaded 0 filterscripts.
+
+[01:04:59] -----------------------------------------------------------------
+[01:04:59] | --> Breaking Peace
+[01:04:59] | --> Servidor inicializado com sucesso
+[01:04:59] | --> Servidor Inicializado às 1 horas, 4 minutos e 59 segundos
+[01:04:59] | --> Inicializado dia 25/10 de 2021
+[01:04:59] -----------------------------------------------------------------
+[01:04:59] Number of vehicle models: 0
+[01:05:00] [connection] 127.0.0.1:60523 requests connection cookie.
+[01:05:01] [connection] incoming connection: 127.0.0.1:60523 id: 0
+[01:05:01] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 60523)
+[01:05:02] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+Console input: gmx
+[01:05:30]  Servidor desligado às 1 horas, 5 minutos e 30 segundos
+[01:05:30]  Desligado dia 25/10 de 2021
+[01:05:42] -----------------------------------------------------------------
+[01:05:42] | --> Breaking Peace
+[01:05:42] | --> Servidor inicializado com sucesso
+[01:05:42] | --> Servidor Inicializado às 1 horas, 5 minutos e 42 segundos
+[01:05:42] | --> Inicializado dia 25/10 de 2021
+[01:05:42] -----------------------------------------------------------------
+[01:05:42] Number of vehicle models: 0
+[01:08:28] [part] Victoria_Shelby has left the server (0:2)
+Console input: gmx
+[01:08:37]  Servidor desligado às 1 horas, 8 minutos e 37 segundos
+[01:08:37]  Desligado dia 25/10 de 2021
+[01:08:49] -----------------------------------------------------------------
+[01:08:49] | --> Breaking Peace
+[01:08:49] | --> Servidor inicializado com sucesso
+[01:08:49] | --> Servidor Inicializado às 1 horas, 8 minutos e 49 segundos
+[01:08:49] | --> Inicializado dia 25/10 de 2021
+[01:08:49] -----------------------------------------------------------------
+[01:08:49] Number of vehicle models: 0
+[01:08:55] [connection] 127.0.0.1:60807 requests connection cookie.
+[01:08:56] [connection] incoming connection: 127.0.0.1:60807 id: 0
+[01:08:56] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 60807)
+[01:08:56] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+Console input: gmx
+[01:12:30]  Servidor desligado às 1 horas, 12 minutos e 30 segundos
+[01:12:30]  Desligado dia 25/10 de 2021
+[01:12:42] -----------------------------------------------------------------
+[01:12:42] | --> Breaking Peace
+[01:12:42] | --> Servidor inicializado com sucesso
+[01:12:42] | --> Servidor Inicializado às 1 horas, 12 minutos e 42 segundos
+[01:12:42] | --> Inicializado dia 25/10 de 2021
+[01:12:42] -----------------------------------------------------------------
+[01:12:42] Number of vehicle models: 0
+Console input: gmx
+[01:13:38]  Servidor desligado às 1 horas, 13 minutos e 38 segundos
+[01:13:38]  Desligado dia 25/10 de 2021
+[01:13:50] -----------------------------------------------------------------
+[01:13:50] | --> Breaking Peace
+[01:13:50] | --> Servidor inicializado com sucesso
+[01:13:50] | --> Servidor Inicializado às 1 horas, 13 minutos e 50 segundos
+[01:13:50] | --> Inicializado dia 25/10 de 2021
+[01:13:50] -----------------------------------------------------------------
+[01:13:50] Number of vehicle models: 0
+Console input: gmx
+[01:13:59]  Servidor desligado às 1 horas, 13 minutos e 59 segundos
+[01:13:59]  Desligado dia 25/10 de 2021
+[01:14:11] -----------------------------------------------------------------
+[01:14:11] | --> Breaking Peace
+[01:14:11] | --> Servidor inicializado com sucesso
+[01:14:11] | --> Servidor Inicializado às 1 horas, 14 minutos e 11 segundos
+[01:14:11] | --> Inicializado dia 25/10 de 2021
+[01:14:11] -----------------------------------------------------------------
+[01:14:11] Number of vehicle models: 0
+Console input: gmx
+[01:17:36]  Servidor desligado às 1 horas, 17 minutos e 36 segundos
+[01:17:36]  Desligado dia 25/10 de 2021
+[01:17:48] -----------------------------------------------------------------
+[01:17:48] | --> Breaking Peace
+[01:17:48] | --> Servidor inicializado com sucesso
+[01:17:48] | --> Servidor Inicializado às 1 horas, 17 minutos e 48 segundos
+[01:17:48] | --> Inicializado dia 25/10 de 2021
+[01:17:48] -----------------------------------------------------------------
+[01:17:48] Number of vehicle models: 0
+[01:17:54] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[01:18:21]  Servidor desligado às 1 horas, 18 minutos e 21 segundos
+[01:18:21]  Desligado dia 25/10 de 2021
+[01:18:26] [chat] [Victoria_Shelby]: alo
+[01:18:33] -----------------------------------------------------------------
+[01:18:33] | --> Breaking Peace
+[01:18:33] | --> Servidor inicializado com sucesso
+[01:18:33] | --> Servidor Inicializado às 1 horas, 18 minutos e 33 segundos
+[01:18:33] | --> Inicializado dia 25/10 de 2021
+[01:18:33] -----------------------------------------------------------------
+[01:18:33] Number of vehicle models: 0
+[01:18:34] [chat] [Victoria_Shelby]: alo
+[01:18:43] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[01:20:30]  Servidor desligado às 1 horas, 20 minutos e 30 segundos
+[01:20:30]  Desligado dia 25/10 de 2021
+[01:20:42] -----------------------------------------------------------------
+[01:20:42] | --> Breaking Peace
+[01:20:42] | --> Servidor inicializado com sucesso
+[01:20:42] | --> Servidor Inicializado às 1 horas, 20 minutos e 42 segundos
+[01:20:42] | --> Inicializado dia 25/10 de 2021
+[01:20:42] -----------------------------------------------------------------
+[01:20:42] Number of vehicle models: 0
+[01:20:49] [chat] [Victoria_Shelby]: alo
+[01:20:55] [part] Victoria_Shelby has left the server (0:2)
+[01:21:18] [connection] 127.0.0.1:51370 requests connection cookie.
+[01:21:19] [connection] incoming connection: 127.0.0.1:51370 id: 0
+[01:21:19] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 51370)
+[01:21:20] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[01:31:48] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[01:31:53] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:31:53]  Servidor desligado às 1 horas, 31 minutos e 53 segundos
+[01:31:53]  Desligado dia 25/10 de 2021
+[01:32:05] -----------------------------------------------------------------
+[01:32:05] | --> Breaking Peace
+[01:32:05] | --> Servidor inicializado com sucesso
+[01:32:05] | --> Servidor Inicializado às 1 horas, 32 minutos e 5 segundos
+[01:32:05] | --> Inicializado dia 25/10 de 2021
+[01:32:05] -----------------------------------------------------------------
+[01:32:05] Number of vehicle models: 0
+[01:34:28] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:34:28]  Servidor desligado às 1 horas, 34 minutos e 28 segundos
+[01:34:28]  Desligado dia 25/10 de 2021
+[01:34:40] -----------------------------------------------------------------
+[01:34:40] | --> Breaking Peace
+[01:34:40] | --> Servidor inicializado com sucesso
+[01:34:40] | --> Servidor Inicializado às 1 horas, 34 minutos e 40 segundos
+[01:34:40] | --> Inicializado dia 25/10 de 2021
+[01:34:40] -----------------------------------------------------------------
+[01:34:40] Number of vehicle models: 0
+[01:37:20] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:37:20]  Servidor desligado às 1 horas, 37 minutos e 20 segundos
+[01:37:20]  Desligado dia 25/10 de 2021
+[01:37:32] -----------------------------------------------------------------
+[01:37:32] | --> Breaking Peace
+[01:37:32] | --> Servidor inicializado com sucesso
+[01:37:32] | --> Servidor Inicializado às 1 horas, 37 minutos e 32 segundos
+[01:37:32] | --> Inicializado dia 25/10 de 2021
+[01:37:32] -----------------------------------------------------------------
+[01:37:32] Number of vehicle models: 0
+[01:46:50] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:46:50]  Servidor desligado às 1 horas, 46 minutos e 50 segundos
+[01:46:50]  Desligado dia 25/10 de 2021
+Console input: loadfs cameditor
+[01:46:56] 
+--------------------------------------
+[01:46:56]  CamEditor by Drebin
+[01:46:56] --------------------------------------
+
+[01:46:56]   Filterscript 'cameditor.amx' loaded.
+[01:47:02] -----------------------------------------------------------------
+[01:47:02] | --> Breaking Peace
+[01:47:02] | --> Servidor inicializado com sucesso
+[01:47:02] | --> Servidor Inicializado às 1 horas, 47 minutos e 2 segundos
+[01:47:02] | --> Inicializado dia 25/10 de 2021
+[01:47:02] -----------------------------------------------------------------
+[01:47:02] Number of vehicle models: 0
+Console input: gmx
+[01:52:32]  Servidor desligado às 1 horas, 52 minutos e 32 segundos
+[01:52:32]  Desligado dia 25/10 de 2021
+[01:52:44] -----------------------------------------------------------------
+[01:52:44] | --> Breaking Peace
+[01:52:44] | --> Servidor inicializado com sucesso
+[01:52:44] | --> Servidor Inicializado às 1 horas, 52 minutos e 44 segundos
+[01:52:44] | --> Inicializado dia 25/10 de 2021
+[01:52:44] -----------------------------------------------------------------
+[01:52:44] Number of vehicle models: 0
+[01:54:42] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:54:42]  Servidor desligado às 1 horas, 54 minutos e 42 segundos
+[01:54:42]  Desligado dia 25/10 de 2021
+[01:54:54] -----------------------------------------------------------------
+[01:54:54] | --> Breaking Peace
+[01:54:54] | --> Servidor inicializado com sucesso
+[01:54:54] | --> Servidor Inicializado às 1 horas, 54 minutos e 54 segundos
+[01:54:54] | --> Inicializado dia 25/10 de 2021
+[01:54:54] -----------------------------------------------------------------
+[01:54:54] Number of vehicle models: 0
+[01:56:17] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:56:17]  Servidor desligado às 1 horas, 56 minutos e 17 segundos
+[01:56:17]  Desligado dia 25/10 de 2021
+Console input: unloadfs cameditor
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:56:32] 
+[01:56:32] Server Plugins
+[01:56:32] --------------
+[01:56:32]  Loading plugin: sscanf
+[01:56:32] 
+
+[01:56:32]  ===============================
+
+[01:56:32]       sscanf plugin loaded.     
+
+[01:56:32]    (c) 2009 Alex "Y_Less" Cole
+
+[01:56:32]    0.3d-R2 500 Players "dnee"
+
+[01:56:32]  ===============================
+
+[01:56:32]   Loaded.
+[01:56:32]  Loaded 1 plugins.
+
+[01:56:32] 
+[01:56:32] Filterscripts
+[01:56:32] ---------------
+[01:56:32]   Loading filterscript 'cameditor.amx'...
+[01:56:32] 
+--------------------------------------
+[01:56:32]  CamEditor by Drebin
+[01:56:32] --------------------------------------
+
+[01:56:32]   Loaded 1 filterscripts.
+
+[01:56:32] -----------------------------------------------------------------
+[01:56:32] | --> Breaking Peace
+[01:56:32] | --> Servidor inicializado com sucesso
+[01:56:32] | --> Servidor Inicializado às 1 horas, 56 minutos e 32 segundos
+[01:56:32] | --> Inicializado dia 25/10 de 2021
+[01:56:32] -----------------------------------------------------------------
+[01:56:32] Number of vehicle models: 0
+Console input: unloadfs cameditor
+[01:56:39]   Filterscript 'cameditor.amx' unloaded.
+[01:56:41] [connection] 127.0.0.1:56811 requests connection cookie.
+[01:56:42] [connection] incoming connection: 127.0.0.1:56811 id: 0
+[01:56:42] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 56811)
+[01:56:42] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[01:57:02] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[01:57:03] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:57:03]  Servidor desligado às 1 horas, 57 minutos e 3 segundos
+[01:57:03]  Desligado dia 25/10 de 2021
+[01:57:15] -----------------------------------------------------------------
+[01:57:15] | --> Breaking Peace
+[01:57:15] | --> Servidor inicializado com sucesso
+[01:57:15] | --> Servidor Inicializado às 1 horas, 57 minutos e 15 segundos
+[01:57:15] | --> Inicializado dia 25/10 de 2021
+[01:57:15] -----------------------------------------------------------------
+[01:57:15] Number of vehicle models: 0
+[01:57:26] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[01:57:26]  Servidor desligado às 1 horas, 57 minutos e 26 segundos
+[01:57:26]  Desligado dia 25/10 de 2021
+[01:57:38] -----------------------------------------------------------------
+[01:57:38] | --> Breaking Peace
+[01:57:38] | --> Servidor inicializado com sucesso
+[01:57:38] | --> Servidor Inicializado às 1 horas, 57 minutos e 38 segundos
+[01:57:38] | --> Inicializado dia 25/10 de 2021
+[01:57:38] -----------------------------------------------------------------
+[01:57:38] Number of vehicle models: 0
+Console input: gmxm
+Console input: gm
+Console input: gmx
+[02:00:07]  Servidor desligado às 2 horas, 0 minutos e 7 segundos
+[02:00:07]  Desligado dia 25/10 de 2021
+[02:00:19] -----------------------------------------------------------------
+[02:00:19] | --> Breaking Peace
+[02:00:19] | --> Servidor inicializado com sucesso
+[02:00:19] | --> Servidor Inicializado às 2 horas, 0 minutos e 19 segundos
+[02:00:19] | --> Inicializado dia 25/10 de 2021
+[02:00:19] -----------------------------------------------------------------
+[02:00:19] Number of vehicle models: 0
+[02:00:48] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[02:00:48]  Servidor desligado às 2 horas, 0 minutos e 48 segundos
+[02:00:48]  Desligado dia 25/10 de 2021
+[02:01:00] -----------------------------------------------------------------
+[02:01:00] | --> Breaking Peace
+[02:01:00] | --> Servidor inicializado com sucesso
+[02:01:00] | --> Servidor Inicializado às 2 horas, 1 minutos e 0 segundos
+[02:01:00] | --> Inicializado dia 25/10 de 2021
+[02:01:00] -----------------------------------------------------------------
+[02:01:00] Number of vehicle models: 0
+[02:01:12] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[02:01:12]  Servidor desligado às 2 horas, 1 minutos e 12 segundos
+[02:01:12]  Desligado dia 25/10 de 2021
+[02:01:24] -----------------------------------------------------------------
+[02:01:24] | --> Breaking Peace
+[02:01:24] | --> Servidor inicializado com sucesso
+[02:01:24] | --> Servidor Inicializado às 2 horas, 1 minutos e 24 segundos
+[02:01:24] | --> Inicializado dia 25/10 de 2021
+[02:01:24] -----------------------------------------------------------------
+[02:01:24] Number of vehicle models: 0
+[02:01:40] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[02:01:40]  Servidor desligado às 2 horas, 1 minutos e 40 segundos
+[02:01:40]  Desligado dia 25/10 de 2021
+[02:01:52] -----------------------------------------------------------------
+[02:01:52] | --> Breaking Peace
+[02:01:52] | --> Servidor inicializado com sucesso
+[02:01:52] | --> Servidor Inicializado às 2 horas, 1 minutos e 52 segundos
+[02:01:52] | --> Inicializado dia 25/10 de 2021
+[02:01:52] -----------------------------------------------------------------
+[02:01:52] Number of vehicle models: 0
+[02:12:05] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[02:12:05]  Servidor desligado às 2 horas, 12 minutos e 5 segundos
+[02:12:05]  Desligado dia 25/10 de 2021
+[02:12:17] -----------------------------------------------------------------
+[02:12:17] | --> Breaking Peace
+[02:12:17] | --> Servidor inicializado com sucesso
+[02:12:17] | --> Servidor Inicializado às 2 horas, 12 minutos e 17 segundos
+[02:12:17] | --> Inicializado dia 25/10 de 2021
+[02:12:17] -----------------------------------------------------------------
+[02:12:17] Number of vehicle models: 0
+Console input: gmx
+[02:20:14]  Servidor desligado às 2 horas, 20 minutos e 14 segundos
+[02:20:14]  Desligado dia 25/10 de 2021
+[02:20:26] -----------------------------------------------------------------
+[02:20:26] | --> Breaking Peace
+[02:20:26] | --> Servidor inicializado com sucesso
+[02:20:26] | --> Servidor Inicializado às 2 horas, 20 minutos e 26 segundos
+[02:20:26] | --> Inicializado dia 25/10 de 2021
+[02:20:26] -----------------------------------------------------------------
+[02:20:26] Number of vehicle models: 0
+Console input: gmx
+[02:50:02]  Servidor desligado às 2 horas, 50 minutos e 2 segundos
+[02:50:02]  Desligado dia 25/10 de 2021
+[02:50:14] -----------------------------------------------------------------
+[02:50:14] | --> Breaking Peace
+[02:50:14] | --> Servidor inicializado com sucesso
+[02:50:14] | --> Servidor Inicializado às 2 horas, 50 minutos e 14 segundos
+[02:50:14] | --> Inicializado dia 25/10 de 2021
+[02:50:14] -----------------------------------------------------------------
+[02:50:14] Number of vehicle models: 0
+[02:50:27] [part] Victoria_Shelby has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:50:46] 
+[02:50:46] Server Plugins
+[02:50:46] --------------
+[02:50:46]  Loading plugin: sscanf
+[02:50:46] 
+
+[02:50:46]  ===============================
+
+[02:50:46]       sscanf plugin loaded.     
+
+[02:50:46]    (c) 2009 Alex "Y_Less" Cole
+
+[02:50:46]    0.3d-R2 500 Players "dnee"
+
+[02:50:46]  ===============================
+
+[02:50:46]   Loaded.
+[02:50:46]  Loaded 1 plugins.
+
+[02:50:47] 
+[02:50:47] Filterscripts
+[02:50:47] ---------------
+[02:50:47]   Loading filterscript 'cameditor.amx'...
+[02:50:47] 
+--------------------------------------
+[02:50:47]  CamEditor by Drebin
+[02:50:47] --------------------------------------
+
+[02:50:47]   Loaded 1 filterscripts.
+
+[02:50:47] -----------------------------------------------------------------
+[02:50:47] | --> Breaking Peace
+[02:50:47] | --> Servidor inicializado com sucesso
+[02:50:47] | --> Servidor Inicializado às 2 horas, 50 minutos e 47 segundos
+[02:50:47] | --> Inicializado dia 25/10 de 2021
+[02:50:47] -----------------------------------------------------------------
+[02:50:47] Number of vehicle models: 0
+[02:51:36] [connection] 127.0.0.1:57407 requests connection cookie.
+[02:51:37] [connection] incoming connection: 127.0.0.1:57407 id: 0
+[02:51:37] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 57407)
+[02:51:37] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[02:51:49] [chat] [Victoria_Shelby]: alo
+[02:51:54] [chat] [Victoria_Shelby]: alo
+[02:51:56] [part] Victoria_Shelby has left the server (0:1)
+Console input: exit
+[02:52:34] --- Server Shutting Down.
+[02:52:34]  Servidor desligado às 2 horas, 52 minutos e 34 segundos
+[02:52:34]  Desligado dia 25/10 de 2021
+[02:52:34] 
+
+[02:52:34]  ===============================
+
+[02:52:34]      sscanf plugin unloaded.    
+
+[02:52:34]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:52:48] 
+[02:52:48] Server Plugins
+[02:52:48] --------------
+[02:52:48]  Loading plugin: sscanf
+[02:52:48] 
+
+[02:52:48]  ===============================
+
+[02:52:48]       sscanf plugin loaded.     
+
+[02:52:48]    (c) 2009 Alex "Y_Less" Cole
+
+[02:52:48]    0.3d-R2 500 Players "dnee"
+
+[02:52:48]  ===============================
+
+[02:52:48]   Loaded.
+[02:52:48]  Loaded 1 plugins.
+
+[02:52:48] 
+[02:52:48] Filterscripts
+[02:52:48] ---------------
+[02:52:48]   Loading filterscript 'cameditor.amx'...
+[02:52:48] 
+--------------------------------------
+[02:52:48]  CamEditor by Drebin
+[02:52:48] --------------------------------------
+
+[02:52:48]   Loaded 1 filterscripts.
+
+[02:52:48] -----------------------------------------------------------------
+[02:52:48] | --> Breaking Peace
+[02:52:48] | --> Servidor inicializado com sucesso
+[02:52:48] | --> Servidor Inicializado às 2 horas, 52 minutos e 48 segundos
+[02:52:48] | --> Inicializado dia 25/10 de 2021
+[02:52:48] -----------------------------------------------------------------
+[02:52:48] Number of vehicle models: 0
+[02:53:13] [connection] 127.0.0.1:64322 requests connection cookie.
+[02:53:14] [connection] incoming connection: 127.0.0.1:64322 id: 0
+[02:53:14] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 64322)
+[02:53:14] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[02:53:21] [chat] [Victoria_Shelby]: alo
+[02:53:28] [chat] [Victoria_Shelby]: ?
+[02:53:29] [chat] [Victoria_Shelby]: bruh
+[02:53:34] [chat] [Victoria_Shelby]: alo
+[02:53:38] [chat] [Victoria_Shelby]: top
+[02:54:34] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[02:54:39] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[02:54:39]  Servidor desligado às 2 horas, 54 minutos e 39 segundos
+[02:54:39]  Desligado dia 25/10 de 2021
+[02:54:51] -----------------------------------------------------------------
+[02:54:51] | --> Breaking Peace
+[02:54:51] | --> Servidor inicializado com sucesso
+[02:54:51] | --> Servidor Inicializado às 2 horas, 54 minutos e 51 segundos
+[02:54:51] | --> Inicializado dia 25/10 de 2021
+[02:54:51] -----------------------------------------------------------------
+[02:54:51] Number of vehicle models: 0
+[02:54:59] [chat] [Victoria_Shelby]: esqueci de atualizar qnd pegar novo org
+[02:55:38] [chat] [Victoria_Shelby]: alo
+[02:55:42] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[02:59:50]  Servidor desligado às 2 horas, 59 minutos e 50 segundos
+[02:59:50]  Desligado dia 25/10 de 2021
+[03:00:02] -----------------------------------------------------------------
+[03:00:02] | --> Breaking Peace
+[03:00:02] | --> Servidor inicializado com sucesso
+[03:00:02] | --> Servidor Inicializado às 3 horas, 0 minutos e 2 segundos
+[03:00:02] | --> Inicializado dia 25/10 de 2021
+[03:00:02] -----------------------------------------------------------------
+[03:00:02] Number of vehicle models: 0
+[03:00:06] [part] Victoria_Shelby has left the server (0:2)
+[03:00:45] [connection] 127.0.0.1:56771 requests connection cookie.
+[03:00:46] [connection] incoming connection: 127.0.0.1:56771 id: 0
+[03:00:46] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 56771)
+[03:00:46] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+[03:00:48] [chat] [Victoria_Shelby]: alo
+[03:00:55] [chat] [Victoria_Shelby]: alo
+[03:01:03] [chat] [Victoria_Shelby]: alo
+[03:01:18] RCON (In-Game): Player #0 (Victoria_Shelby) has logged in.
+[03:01:20] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[03:01:20]  Servidor desligado às 3 horas, 1 minutos e 20 segundos
+[03:01:20]  Desligado dia 25/10 de 2021
+[03:01:32] -----------------------------------------------------------------
+[03:01:32] | --> Breaking Peace
+[03:01:32] | --> Servidor inicializado com sucesso
+[03:01:32] | --> Servidor Inicializado às 3 horas, 1 minutos e 32 segundos
+[03:01:32] | --> Inicializado dia 25/10 de 2021
+[03:01:32] -----------------------------------------------------------------
+[03:01:32] Number of vehicle models: 0
+[03:01:43] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[03:03:41]  Servidor desligado às 3 horas, 3 minutos e 41 segundos
+[03:03:41]  Desligado dia 25/10 de 2021
+[03:03:53] -----------------------------------------------------------------
+[03:03:53] | --> Breaking Peace
+[03:03:53] | --> Servidor inicializado com sucesso
+[03:03:53] | --> Servidor Inicializado às 3 horas, 3 minutos e 53 segundos
+[03:03:53] | --> Inicializado dia 25/10 de 2021
+[03:03:53] -----------------------------------------------------------------
+[03:03:53] Number of vehicle models: 0
+[03:03:54] [chat] [Victoria_Shelby]: alo
+[03:04:00] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[03:05:25]  Servidor desligado às 3 horas, 5 minutos e 25 segundos
+[03:05:25]  Desligado dia 25/10 de 2021
+[03:05:37] -----------------------------------------------------------------
+[03:05:37] | --> Breaking Peace
+[03:05:37] | --> Servidor inicializado com sucesso
+[03:05:37] | --> Servidor Inicializado às 3 horas, 5 minutos e 37 segundos
+[03:05:37] | --> Inicializado dia 25/10 de 2021
+[03:05:37] -----------------------------------------------------------------
+[03:05:37] Number of vehicle models: 0
+[03:05:58] [chat] [Victoria_Shelby]: alo
+[03:06:06] [chat] [Victoria_Shelby]: alo
+[03:06:10] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[03:06:10]  Servidor desligado às 3 horas, 6 minutos e 10 segundos
+[03:06:10]  Desligado dia 25/10 de 2021
+[03:06:13] [chat] [Victoria_Shelby]: alo
+[03:06:22] -----------------------------------------------------------------
+[03:06:22] | --> Breaking Peace
+[03:06:22] | --> Servidor inicializado com sucesso
+[03:06:22] | --> Servidor Inicializado às 3 horas, 6 minutos e 22 segundos
+[03:06:22] | --> Inicializado dia 25/10 de 2021
+[03:06:22] -----------------------------------------------------------------
+[03:06:22] Number of vehicle models: 0
+[03:06:27] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[03:07:03]  Servidor desligado às 3 horas, 7 minutos e 3 segundos
+[03:07:03]  Desligado dia 25/10 de 2021
+[03:07:15] -----------------------------------------------------------------
+[03:07:15] | --> Breaking Peace
+[03:07:15] | --> Servidor inicializado com sucesso
+[03:07:15] | --> Servidor Inicializado às 3 horas, 7 minutos e 15 segundos
+[03:07:15] | --> Inicializado dia 25/10 de 2021
+[03:07:15] -----------------------------------------------------------------
+[03:07:15] Number of vehicle models: 0
+[03:07:17] [chat] [Victoria_Shelby]: alo
+[03:07:27] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[03:07:27]  Servidor desligado às 3 horas, 7 minutos e 27 segundos
+[03:07:27]  Desligado dia 25/10 de 2021
+[03:07:39] -----------------------------------------------------------------
+[03:07:39] | --> Breaking Peace
+[03:07:39] | --> Servidor inicializado com sucesso
+[03:07:39] | --> Servidor Inicializado às 3 horas, 7 minutos e 39 segundos
+[03:07:39] | --> Inicializado dia 25/10 de 2021
+[03:07:39] -----------------------------------------------------------------
+[03:07:39] Number of vehicle models: 0
+[03:08:01] [chat] [Victoria_Shelby]: alo
+[03:08:11] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[03:08:11]  Servidor desligado às 3 horas, 8 minutos e 11 segundos
+[03:08:11]  Desligado dia 25/10 de 2021
+[03:08:23] -----------------------------------------------------------------
+[03:08:23] | --> Breaking Peace
+[03:08:23] | --> Servidor inicializado com sucesso
+[03:08:23] | --> Servidor Inicializado às 3 horas, 8 minutos e 23 segundos
+[03:08:23] | --> Inicializado dia 25/10 de 2021
+[03:08:23] -----------------------------------------------------------------
+[03:08:23] Number of vehicle models: 0
+[03:08:27] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[03:13:14]  Servidor desligado às 3 horas, 13 minutos e 14 segundos
+[03:13:14]  Desligado dia 25/10 de 2021
+[03:13:45] -----------------------------------------------------------------
+[03:13:45] | --> Breaking Peace
+[03:13:45] | --> Servidor inicializado com sucesso
+[03:13:45] | --> Servidor Inicializado às 3 horas, 13 minutos e 26 segundos
+[03:13:45] | --> Inicializado dia 25/10 de 2021
+[03:13:45] -----------------------------------------------------------------
+[03:13:45] Number of vehicle models: 0
+[03:13:48] [chat] [Victoria_Shelby]: alo
+[03:13:55] [chat] [Victoria_Shelby]: alo
+Console input: gmx
+[03:14:55]  Servidor desligado às 3 horas, 14 minutos e 55 segundos
+[03:14:55]  Desligado dia 25/10 de 2021
+[03:15:02] [chat] [Victoria_Shelby]: a
+[03:15:07] -----------------------------------------------------------------
+[03:15:07] | --> Breaking Peace
+[03:15:07] | --> Servidor inicializado com sucesso
+[03:15:07] | --> Servidor Inicializado às 3 horas, 15 minutos e 7 segundos
+[03:15:07] | --> Inicializado dia 25/10 de 2021
+[03:15:07] -----------------------------------------------------------------
+[03:15:07] Number of vehicle models: 0
+[03:15:11] [chat] [Victoria_Shelby]: alo
+Console input: gm
+Console input: gmx
+[03:15:20]  Servidor desligado às 3 horas, 15 minutos e 20 segundos
+[03:15:20]  Desligado dia 25/10 de 2021
+[03:15:31] [chat] [Victoria_Shelby]: alo
+[03:15:32] -----------------------------------------------------------------
+[03:15:32] | --> Breaking Peace
+[03:15:32] | --> Servidor inicializado com sucesso
+[03:15:32] | --> Servidor Inicializado às 3 horas, 15 minutos e 32 segundos
+[03:15:32] | --> Inicializado dia 25/10 de 2021
+[03:15:32] -----------------------------------------------------------------
+[03:15:32] Number of vehicle models: 0
+[03:15:35] [chat] [Victoria_Shelby]: alo
+[03:15:41] Admin Victoria_Shelby ID [0] deu GMX no servidor
+[03:15:41]  Servidor desligado às 3 horas, 15 minutos e 41 segundos
+[03:15:41]  Desligado dia 25/10 de 2021
+[03:15:53] -----------------------------------------------------------------
+[03:15:53] | --> Breaking Peace
+[03:15:53] | --> Servidor inicializado com sucesso
+[03:15:53] | --> Servidor Inicializado às 3 horas, 15 minutos e 53 segundos
+[03:15:53] | --> Inicializado dia 25/10 de 2021
+[03:15:53] -----------------------------------------------------------------
+[03:15:53] Number of vehicle models: 0
+[03:15:56] [chat] [Victoria_Shelby]: alo
+[03:15:59] [part] Victoria_Shelby has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:59:22] 
+[09:59:22] Server Plugins
+[09:59:22] --------------
+[09:59:22]  Loading plugin: sscanf
+[09:59:22] 
+
+[09:59:22]  ===============================
+
+[09:59:22]       sscanf plugin loaded.     
+
+[09:59:22]    (c) 2009 Alex "Y_Less" Cole
+
+[09:59:22]    0.3d-R2 500 Players "dnee"
+
+[09:59:22]  ===============================
+
+[09:59:22]   Loaded.
+[09:59:22]  Loaded 1 plugins.
+
+[09:59:22] 
+[09:59:22] Filterscripts
+[09:59:22] ---------------
+[09:59:22]   Loading filterscript 'cameditor.amx'...
+[09:59:22] 
+--------------------------------------
+[09:59:22]  CamEditor by Drebin
+[09:59:22] --------------------------------------
+
+[09:59:22]   Loaded 1 filterscripts.
+
+[09:59:22] -----------------------------------------------------------------
+[09:59:22] | --> Breaking Peace
+[09:59:22] | --> Servidor inicializado com sucesso
+[09:59:22] | --> Servidor Inicializado às 9 horas, 59 minutos e 22 segundos
+[09:59:22] | --> Inicializado dia 25/10 de 2021
+[09:59:22] -----------------------------------------------------------------
+[09:59:22] Number of vehicle models: 0
+[10:00:12] [connection] 127.0.0.1:59239 requests connection cookie.
+[10:00:12] [connection] 127.0.0.1:59239 requests connection cookie.
+[10:00:12] [connection] 127.0.0.1:59239 requests connection cookie.
+[10:00:12] [connection] 127.0.0.1:59239 requests connection cookie.
+[10:00:12] [connection] incoming connection: 127.0.0.1:59239 id: 0
+[10:00:12] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 59239)
+[10:00:32] [connection] incoming connection: 127.0.0.1:60606 id: 0
+[10:00:32] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 60606)
+[10:00:32] [join] Victor_ has joined the server (0:127.0.0.1)
+[10:01:13] RCON (In-Game): Player #0 (Victor_) has logged in.
+[10:01:17] Admin Victor_ ID [0] deu GMX no servidor
+[10:01:17]  Servidor desligado às 10 horas, 1 minutos e 17 segundos
+[10:01:17]  Desligado dia 25/10 de 2021
+[10:01:30] -----------------------------------------------------------------
+[10:01:30] | --> Breaking Peace
+[10:01:30] | --> Servidor inicializado com sucesso
+[10:01:30] | --> Servidor Inicializado às 10 horas, 1 minutos e 30 segundos
+[10:01:30] | --> Inicializado dia 25/10 de 2021
+[10:01:30] -----------------------------------------------------------------
+[10:01:30] Number of vehicle models: 0
+[10:01:42] [chat] [Victor_]: jasvdj
+Console input: exit
+[10:06:32] --- Server Shutting Down.
+[10:06:32]  Servidor desligado às 10 horas, 6 minutos e 32 segundos
+[10:06:32]  Desligado dia 25/10 de 2021
+[10:06:32] [part] Victor_ has left the server (0:0)
+[10:06:32] 
+
+[10:06:32]  ===============================
+
+[10:06:32]      sscanf plugin unloaded.    
+
+[10:06:32]  ===============================
+
