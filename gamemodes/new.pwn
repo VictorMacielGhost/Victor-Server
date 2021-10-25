@@ -29,6 +29,7 @@ new Dias[Data];
 new bool:PlayerLogado[MAX_PLAYERS] = false;
 new NomeOrg[MAX_PLAYERS][64];
 new NomeCargo[MAX_PLAYERS][64];
+new CarrosEB[12];
 
 // ------------ variaveis relacionada a conta de players
 
@@ -69,10 +70,25 @@ main()
 
 public OnGameModeInit()
 {
-	SetGameModeText(" ----------- "); // altere conforme o gosto
-	DisableInteriorEnterExits(); // Desabilitar interiores entráveis, comente caso queira desativar
-	UsePlayerPedAnims(); // Utilizar funções de corrida / andar do CJ, comente para desativar
+	SetGameModeText(" LockDown / Pandemia / PTBR "); // altere conforme o gosto
+	// DisableInteriorEnterExits(); // Desabilitar interiores entráveis, comente caso queira desativar
+	// UsePlayerPedAnims(); // Utilizar funções de corrida / andar do CJ, comente para desativar
 	EnableStuntBonusForAll(0); // desabilitar bonus por saltos insanos, comente para habilitar
+
+
+	// --------------------- Criando veiculos do servidor ------------------------//
+	CarrosEB[0] = CreateVehicle(470,-2535.6301,-601.4636,132.5573,180.2735,1,1, -1, 1);
+	CarrosEB[1] = CreateVehicle(470,-2531.8374,-601.4080,132.5556,179.4014,1,1, -1, 1);
+	CarrosEB[2] = CreateVehicle(470,-2528.1721,-601.6030,132.5520,178.9744,1,1, -1, 1);
+	CarrosEB[3] = CreateVehicle(470,-2524.4290,-601.4161,132.5546,180.0471,1,1, -1, 1);
+	CarrosEB[4] = CreateVehicle(470,-2520.9800,-601.4042,132.5588,178.9185,1,1, -1, 1);
+	CarrosEB[5] = CreateVehicle(470,-2516.9336,-601.5657,132.5553,180.6241,1,1, -1, 1);
+	CarrosEB[6] = CreateVehicle(470,-2494.2129,-601.4407,132.5585,180.0334,1,1, -1, 1);
+	CarrosEB[7] = CreateVehicle(470,-2498.4575,-601.7545,132.5576,180.2656,1,1, -1, 1);
+	CarrosEB[8] = CreateVehicle(470,-2502.1597,-601.5577,132.5577,181.1032,1,1, -1, 1);
+	CarrosEB[9] = CreateVehicle(470,-2505.8220,-601.7470,132.5535,181.4618,1,1, -1, 1);
+
+	AddStaticPickup(1314, 23, -2521.3943,-624.0083,132.7800, 0);
 
 
 	return 1;
@@ -105,7 +121,7 @@ public OnPlayerConnect(playerid)
 {
 	TogglePlayerSpectating(playerid, 1);
 	TogglePlayerSpectating(playerid, 0);
-	SetSpawnInfo(playerid, -1, 26, -2657.4839, 632.3875, 14.4531, 180.3573, 0, 0, 0, 0, 0, 0);
+	SetSpawnInfo(playerid, -1, 287, -2521.3943,-624.0083,132.7800,359.05253, 24, 100, 27, 100, 30, 100);
 
 	InterpolateCameraPos(playerid, -2711.398681, 568.333312, 29.153371, -2609.960449, 572.009582, 29.153371, 10000);
 	InterpolateCameraLookAt(playerid, -2708.927490, 572.486511, 27.871107, -2613.088378, 575.641418, 27.730033, 10000);
@@ -187,7 +203,7 @@ public OnPlayerText(playerid, text[])
 		format(String, sizeof String, "(%s) %s %s Diz: %s", NomeOrg[playerid], NomeCargo[playerid], pName(playerid), text);
 		SendClientMessageToAll(-1, String);
 	}
-	
+	 
 	return 0;
 }
 
@@ -396,6 +412,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 				PlayerInfo[playerid][Score] = DOF2_GetInt(StringConta, "Score");
 				PlayerInfo[playerid][NivelProcurado] = DOF2_GetInt(StringConta, "NivelProcurado");
 				format(PlayerInfo[playerid][Cor], sizeof StringConta, "%s", DOF2_GetString(StringConta, "CorNome"));
+				SpawnPlayer(playerid);
 
 
 				Organizacao(playerid, PlayerInfo[playerid][OrgNome]);
