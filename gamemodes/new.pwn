@@ -107,7 +107,7 @@ public OnGameModeExit()
 
 public OnPlayerRequestClass(playerid, classid)
 {
-
+	SetSpawnInfo(playerid, -1, 287, -2521.3943,-624.0083,132.7800,359.05253, 24, 100, 27, 100, 30, 100);
 	return 1;
 }
 
@@ -121,8 +121,6 @@ public OnPlayerConnect(playerid)
 {
 	TogglePlayerSpectating(playerid, 1);
 	TogglePlayerSpectating(playerid, 0);
-	SetSpawnInfo(playerid, -1, 287, -2521.3943,-624.0083,132.7800,359.05253, 24, 100, 27, 100, 30, 100);
-
 	InterpolateCameraPos(playerid, -2711.398681, 568.333312, 29.153371, -2609.960449, 572.009582, 29.153371, 10000);
 	InterpolateCameraLookAt(playerid, -2708.927490, 572.486511, 27.871107, -2613.088378, 575.641418, 27.730033, 10000);
 

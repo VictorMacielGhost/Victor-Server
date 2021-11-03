@@ -1631,3 +1631,82 @@ Console input: exit
 
 [10:06:32]  ===============================
 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:19:27] 
+[12:19:27] Server Plugins
+[12:19:27] --------------
+[12:19:27]  Loading plugin: sscanf
+[12:19:27] 
+
+[12:19:27]  ===============================
+
+[12:19:27]       sscanf plugin loaded.     
+
+[12:19:27]    (c) 2009 Alex "Y_Less" Cole
+
+[12:19:27]    0.3d-R2 500 Players "dnee"
+
+[12:19:27]  ===============================
+
+[12:19:27]   Loaded.
+[12:19:27]  Loaded 1 plugins.
+
+[12:19:27] 
+[12:19:27] Filterscripts
+[12:19:27] ---------------
+[12:19:27]   Loading filterscript 'cameditor.amx'...
+[12:19:27] 
+--------------------------------------
+[12:19:27]  CamEditor by Drebin
+[12:19:27] --------------------------------------
+
+[12:19:27]   Loaded 1 filterscripts.
+
+[12:19:27] -----------------------------------------------------------------
+[12:19:27] | --> Breaking Peace
+[12:19:27] | --> Servidor inicializado com sucesso
+[12:19:27] | --> Servidor Inicializado às 12 horas, 19 minutos e 27 segundos
+[12:19:27] | --> Inicializado dia 3/11 de 2021
+[12:19:27] -----------------------------------------------------------------
+[12:19:27] Number of vehicle models: 1
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:59733 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:54462 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:58919 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:58919 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:58919 requests connection cookie.
+[12:20:03] [connection] 127.0.0.1:58919 requests connection cookie.
+[12:20:04] [connection] incoming connection: 127.0.0.1:58919 id: 0
+[12:20:04] Player ID 0 esta tentando se conectar ao servidor (IP : 127.0.0.1, Porta : 58919)
+[12:20:04] [join] Victoria_Shelby has joined the server (0:127.0.0.1)
+Console input: tt/exit
+[12:21:21] [part] Victoria_Shelby has left the server (0:0)
+Console input: exit
+[12:50:59] --- Server Shutting Down.
+[12:50:59]  Servidor desligado às 12 horas, 50 minutos e 59 segundos
+[12:50:59]  Desligado dia 3/11 de 2021
+[12:50:59] 
+
+[12:50:59]  ===============================
+
+[12:50:59]      sscanf plugin unloaded.    
+
+[12:50:59]  ===============================
+
